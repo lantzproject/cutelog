@@ -68,7 +68,7 @@ OPTION_SPEC = (
 
     # Server
     ('listen_host',                  str,  '0.0.0.0'),
-    ('listen_port',                  int,  19996),
+    ('listen_port',                  int,  9020),
     ('single_tab_mode_default',      bool, False),
     ('extra_mode_default',           bool, False),
     ('default_serialization_format', str,  'pickle'),
